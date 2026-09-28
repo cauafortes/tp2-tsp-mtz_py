@@ -1,0 +1,3 @@
+pulp>=2.8
+highspy   # opcional, só se for usar --solver highs
+scipy     # opcional, só para verifica_otimos.py
